@@ -13,6 +13,7 @@
             "email": "odulati@gmail.com"
         }
     ],
+    "prefer-stable": true,
     "minimum-stability": "dev",
     "require": {}
 }
